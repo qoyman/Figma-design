@@ -168,6 +168,21 @@ body {
     margin-top: 90px;
 
     .prbig {
+      .the2 {
+        border: 1px solid #38353d;
+  
+        div:nth-child(1) {
+          border: 1px solid #38353d;
+          background-color: #4a46fc;
+        }
+      }
+  
+      .red25 {
+        transform: translate(-28px, -15px) rotate(45deg);
+      }
+    }
+
+    .prbig {
       color: white;
     }
   }
