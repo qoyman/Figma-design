@@ -56,8 +56,8 @@ body {
     }
 
     div {
-     margin: 0 auto;
-     width: fit-content;
+      margin: 0 auto;
+      width: fit-content;
 
       button:nth-child(1) {
         background: linear-gradient(270deg, #673ab7, #4b03cd);
@@ -113,14 +113,14 @@ body {
     margin: 0 auto;
     margin-top: 30px;
     padding: 30px;
-    border: 1px solid #38353D;
+    border: 1px solid #38353d;
     border-radius: 20px;
     background-color: #0d011f;
     background-image: url(assets/images/backgrounds/div12.png);
     background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
-  
+
     img {
       padding: 10px;
       background-color: #673ab7;
@@ -250,7 +250,7 @@ h1 {
     border: 1px solid #38353d;
     border-radius: 15px;
     background: linear-gradient(135deg, #ecc8c833, #0000001f, #ffffff05);
-  
+
     p {
       border-bottom: 1px solid #38353d;
       margin-bottom: 0;
@@ -275,40 +275,40 @@ footer {
         background: linear-gradient(90deg, #673ab7, #4b03cd);
         color: white;
       }
-  
+
       button:nth-child(2) {
         color: white;
       }
     }
   }
-  
+
   section {
     width: fit-content;
     margin: 0 auto;
     margin-top: 90px;
-  
+
     div:nth-child(1) {
       p {
-        color: #C0C0C0;
+        color: #c0c0c0;
       }
     }
-  
+
     div:nth-child(2) {
       margin-top: 50px;
-  
+
       a {
         color: #C0C0C0;
         text-decoration: none;
       }
     }
-  
+
     div:nth-child(3) {
       margin-top: 50px;
-  
+
       a {
-        color: #C0C0C0;
+        color: #c0c0c0;
       }
-  
+
       div {
         margin-top: 10px;
       }
@@ -319,8 +319,8 @@ footer {
 @media (min-width: 767px) {
   .service-image {
     display: flex;
-}
-  
+  }
+
   .img-service {
     width: 50%;
   }
@@ -336,7 +336,7 @@ footer {
     width: fit-content;
     margin: 0 auto;
     gap: 50px;
-    
+
     .div12 {
       margin-top: 0;
     }
