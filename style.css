@@ -33,7 +33,9 @@ body {
   margin: 0;
 }
 
-h1, p, h6 {
+h1,
+p,
+h6 {
   color: white;
 }
 
@@ -93,6 +95,18 @@ h1, p, h6 {
   width: 20px;
   height: 10px;
   padding-right: 10px;
+}
+
+.expcol {
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.expcol img {
+  width: 60px;
+  height: 60px;
+  border: 1px solid #38353d;
+  border-radius: 50%;
+  overflow: visible;
 }
 
 .sec4 {
@@ -162,18 +176,6 @@ h1, p, h6 {
 .sec6 .prbig .red25 {
   transform: translate(-28px, -15px) rotate(45deg);
   color: white;
-}
-
-.expcol {
-  width: -moz-fit-content;
-  width: fit-content;
-}
-.expcol img {
-  width: 60px;
-  height: 60px;
-  border: 1px solid #38353d;
-  border-radius: 50%;
-  overflow: visible;
 }
 
 .sec6-big {
