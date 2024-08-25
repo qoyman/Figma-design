@@ -110,7 +110,7 @@ body {
 }
 .sec4 .div12 img {
   padding: 10px;
-  background-color: #673AB7;
+  background-color: #673ab7;
   border-radius: 10px;
   margin-bottom: 40px;
 }
@@ -118,7 +118,7 @@ body {
   margin-bottom: 10px;
 }
 .sec4 .div12 p {
-  color: #C1CFD8;
+  color: #c1cfd8;
   font-size: 16px;
 }
 
@@ -188,7 +188,7 @@ h1, p, h6 {
   background: linear-gradient(135deg, rgba(0, 0, 0, 0.1215686275), rgba(236, 200, 200, 0.2), rgba(255, 255, 255, 0.0196078431));
 }
 .sec6-big .psub2 {
-  border: 1px solid #38353D;
+  border: 1px solid #38353d;
   border-radius: 15px;
   background: linear-gradient(135deg, rgba(236, 200, 200, 0.2), rgba(0, 0, 0, 0.1215686275), rgba(255, 255, 255, 0.0196078431));
 }
