@@ -33,6 +33,10 @@ body {
   margin: 0;
 }
 
+h1, p, h6 {
+  color: white;
+}
+
 .sec1 {
   margin-top: 50px;
 }
@@ -142,10 +146,6 @@ body {
 
 .exdivs {
   background-color: #673ab7;
-}
-
-h1, p, h6 {
-  color: white;
 }
 
 .sec6 {
