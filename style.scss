@@ -317,16 +317,13 @@ footer {
     }
   }
 }
-  
 @media (min-width: 767px) {
   .service-image {
     display: flex;
-  }
-    
+  }   
   .img-service {
     width: 50%;
-  }
-    
+  }  
   .menu {
     display: none;
   }
@@ -338,12 +335,10 @@ footer {
     width: fit-content;
     margin: 0 auto;
     gap: 50px;
-  
     .div12 {
       margin-top: 0;
     }
   }
-  
   .expcol {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -364,4 +359,3 @@ footer {
     gap: 20px;
   }
 }
-   
