@@ -270,12 +270,12 @@ footer {
       height: 10px;
     }
   }
-  
+
   .fd1 {
     div {
       button:nth-child(1) {
-      background: linear-gradient(90deg, #673AB7, #4B03CD);
-      color: white;
+        background: linear-gradient(90deg, #673ab7, #4b03cd);
+        color: white;
       }
   
       button:nth-child(2) {
@@ -317,10 +317,12 @@ footer {
     }
   }
 }
+
 @media (min-width: 767px) {
   .service-image {
     display: flex;
-  }   
+}   
+  
   .img-service {
     width: 50%;
   }
