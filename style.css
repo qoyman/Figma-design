@@ -270,23 +270,23 @@ footer section {
   margin: 0 auto;
   margin-top: 90px;
 }
-footer section div:nth-child(1) .foot-par {
+footer section .foot-div:nth-child(1) .foot-par {
   color: #c0c0c0;
 }
-footer section div:nth-child(2) {
+footer section .foot-div:nth-child(2) {
   margin-top: 50px;
 }
-footer section div:nth-child(2) a {
+footer section .foot-div:nth-child(2) a {
   color: #c0c0c0;
   text-decoration: none;
 }
-footer section div:nth-child(3) {
-  margin-top: 50px;
+footer section .foot-div:nth-child(3) {
+  margin-top: 80px;
 }
-footer section div:nth-child(3) a {
+footer section .foot-div:nth-child(3) a {
   color: #c0c0c0;
 }
-footer section div:nth-child(3) div {
+footer section .foot-div:nth-child(3) .foot-div {
   margin-top: 10px;
 }
 

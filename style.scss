@@ -287,8 +287,8 @@ footer {
   background: radial-gradient(circle, #6f30d827, #26185000, rgba(38, 24, 80, 0) 100%);
 
   .so-img {
-      width: 10px;
-      height: 10px;
+    width: 10px;
+    height: 10px;
   }
 
   section {
@@ -296,13 +296,13 @@ footer {
     margin: 0 auto;
     margin-top: 90px;
 
-    div:nth-child(1) {
+    .foot-div:nth-child(1) {
       .foot-par {
         color: #c0c0c0;
       }
     }
 
-    div:nth-child(2) {
+    .foot-div:nth-child(2) {
       margin-top: 50px;
 
       a {
@@ -311,14 +311,14 @@ footer {
       }
     }
 
-    div:nth-child(3) {
-      margin-top: 50px;
+    .foot-div:nth-child(3) {
+      margin-top: 80px;
 
       a {
         color: #c0c0c0;
       }
 
-      div {
+      .foot-div {
         margin-top: 10px;
       }
     }
