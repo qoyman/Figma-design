@@ -33,52 +33,49 @@ body {
   margin: 0;
 }
 
-.sec1, .sec8 {
-  margin-top: 50px;
-}
-.sec1 p, .sec8 p {
-  color: #cecece;
-  font-size: 16px;
-}
-.sec1 h1, .sec8 h1 {
-  color: white;
-}
-.sec1 div, .sec8 div {
-  margin: 0 auto;
-  width: -moz-fit-content;
-  width: fit-content;
-}
-.sec1 div button:nth-child(1), .sec8 div button:nth-child(1) {
-  background: linear-gradient(270deg, #673AB7, #4B03CD);
-  color: white;
-  width: 200px;
-}
-.sec1 div button:nth-child(2), .sec8 div button:nth-child(2) {
-  background-color: #424242;
-  border: #828282;
-  color: white;
-  width: 200px;
-}
-
-.sec2 {
-  margin-top: 50px;
-}
-.sec2 h5 {
-  color: white;
-  font-size: 16px;
-}
-
-.goamaz {
-  width: 120px;
-  margin-top: 20px;
-}
-
 .sec3 button {
   margin: 0 auto;
   border: 1px solid;
   border-radius: 50px;
   background-color: #111111;
   color: white;
+}
+.sec3 .sec1, .sec3 .sec8 {
+  margin-top: 50px;
+}
+.sec3 .sec1 p, .sec3 .sec8 p {
+  color: #cecece;
+  font-size: 16px;
+}
+.sec3 .sec1 h1, .sec3 .sec8 h1 {
+  color: white;
+}
+.sec3 .sec1 div, .sec3 .sec8 div {
+  margin: 0 auto;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.sec3 .sec1 div button:nth-child(1), .sec3 .sec8 div button:nth-child(1) {
+  background: linear-gradient(270deg, #673ab7, #4b03cd);
+  color: white;
+  width: 200px;
+}
+.sec3 .sec1 div button:nth-child(2), .sec3 .sec8 div button:nth-child(2) {
+  background-color: #424242;
+  border: #828282;
+  color: white;
+  width: 200px;
+}
+.sec3 .sec2 {
+  margin-top: 50px;
+}
+.sec3 .sec2 h5 {
+  color: white;
+  font-size: 16px;
+}
+.sec3 .goamaz {
+  width: 120px;
+  margin-top: 20px;
 }
 .sec3 div {
   color: white;

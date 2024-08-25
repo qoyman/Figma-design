@@ -34,6 +34,15 @@ body {
   }
 }
 
+.sec3 {
+  button {
+    margin: 0 auto;
+    border: 1px solid;
+    border-radius: 50px;
+    background-color: #111111;
+    color: white;
+  }
+
 .sec1, .sec8 {
   margin-top: 50px;
   
@@ -51,7 +60,7 @@ body {
     width: fit-content;
   
     button:nth-child(1) {
-      background: linear-gradient(270deg, #673AB7, #4B03CD);
+      background: linear-gradient(270deg, #673ab7, #4b03cd);
       color: white;
       width: 200px;
     }
@@ -79,31 +88,22 @@ body {
   margin-top: 20px;
 }
 
-.sec3 {
-     button {
-        margin: 0 auto;
-        border: 1px solid;
-        border-radius: 50px;
-        background-color: #111111;
-        color: white;
-  
-     }
-
-     div {
-        color: white;
-        font-size: 16px;
-     }
+  div {
+    color: white;
+    font-size: 16px;
   }
+}
 
-  .marks {
-    width: 20px;
-    height: 10px;
-    padding-right: 10px;
-  }
+.marks {
+  width: 20px;
+  height: 10px;
+  padding-right: 10px;
+}
 
-  .sec4 {
-    margin-top: 100px;
-    h1 {
+.sec4 {
+  margin-top: 100px;
+
+  h1 {
         color: white;
     }
   
