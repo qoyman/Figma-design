@@ -33,47 +33,6 @@ body {
   margin: 0;
 }
 
-footer {
-  margin-top: 90px;
-  background: radial-gradient(circle, rgba(111, 48, 216, 0.1529411765), rgba(38, 24, 80, 0), rgba(38, 24, 80, 0) 100%);
-}
-footer .socialimg img {
-  width: 10px;
-  height: 10px;
-}
-footer .fd1 div button:nth-child(1) {
-  background: linear-gradient(90deg, #673ab7, #4b03cd);
-  color: white;
-}
-footer .fd1 div button:nth-child(2) {
-  color: white;
-}
-footer section {
-  width: -moz-fit-content;
-  width: fit-content;
-  margin: 0 auto;
-  margin-top: 90px;
-}
-footer section div:nth-child(1) p {
-  color: #C0C0C0;
-}
-footer section div:nth-child(2) {
-  margin-top: 50px;
-}
-footer section div:nth-child(2) a {
-  color: #C0C0C0;
-  text-decoration: none;
-}
-footer section div:nth-child(3) {
-  margin-top: 50px;
-}
-footer section div:nth-child(3) a {
-  color: #C0C0C0;
-}
-footer section div:nth-child(3) div {
-  margin-top: 10px;
-}
-
 .sec3 button {
   margin: 0 auto;
   border: 1px solid;
@@ -268,6 +227,47 @@ h1 {
 .sec7 div p {
   border-bottom: 1px solid #38353d;
   margin-bottom: 0;
+}
+
+footer {
+  margin-top: 90px;
+  background: radial-gradient(circle, rgba(111, 48, 216, 0.1529411765), rgba(38, 24, 80, 0), rgba(38, 24, 80, 0) 100%);
+}
+footer .socialimg img {
+  width: 10px;
+  height: 10px;
+}
+footer .fd1 div button:nth-child(1) {
+  background: linear-gradient(90deg, #673ab7, #4b03cd);
+  color: white;
+}
+footer .fd1 div button:nth-child(2) {
+  color: white;
+}
+footer section {
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0 auto;
+  margin-top: 90px;
+}
+footer section div:nth-child(1) p {
+  color: #C0C0C0;
+}
+footer section div:nth-child(2) {
+  margin-top: 50px;
+}
+footer section div:nth-child(2) a {
+  color: #C0C0C0;
+  text-decoration: none;
+}
+footer section div:nth-child(3) {
+  margin-top: 50px;
+}
+footer section div:nth-child(3) a {
+  color: #C0C0C0;
+}
+footer section div:nth-child(3) div {
+  margin-top: 10px;
 }
 
 @media (min-width: 767px) {
