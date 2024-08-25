@@ -153,6 +153,7 @@ h1, p, h6 {
 }
 .sec6 .prbig .the2 {
   border: 1px solid #38353d;
+  color: white;
 }
 .sec6 .prbig .the2 div:nth-child(1) {
   border: 1px solid #38353d;
@@ -160,8 +161,6 @@ h1, p, h6 {
 }
 .sec6 .prbig .red25 {
   transform: translate(-28px, -15px) rotate(45deg);
-}
-.sec6 .prbig {
   color: white;
 }
 

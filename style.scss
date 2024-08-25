@@ -167,6 +167,7 @@ h1, p, h6 {
   .prbig {
     .the2 {
       border: 1px solid #38353d;
+      color: white;
 
       div:nth-child(1) {
         border: 1px solid #38353d;
@@ -176,11 +177,8 @@ h1, p, h6 {
 
     .red25 {
       transform: translate(-28px, -15px) rotate(45deg);
+      color: white;
     }
-  }
-
-  .prbig {
-    color: white;
   }
 }
 
