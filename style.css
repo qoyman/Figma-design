@@ -33,53 +33,52 @@ body {
   margin: 0;
 }
 
+.sec1 {
+  margin-top: 50px;
+}
+.sec1 p {
+  color: #cecece;
+  font-size: 16px;
+}
+.sec1 h1 {
+  color: white;
+}
+.sec1 div {
+  margin: 0 auto;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.sec1 div button:nth-child(1) {
+  background: linear-gradient(270deg, #673ab7, #4b03cd);
+  color: white;
+  width: 200px;
+}
+.sec1 div button:nth-child(2) {
+  background-color: rgba(0, 0, 0, 0.2);
+  border: 1px solid #828282;
+  color: white;
+  width: 200px;
+}
+
+.sec2 {
+  margin-top: 50px;
+}
+.sec2 h5 {
+  color: white;
+  font-size: 16px;
+}
+
+.goamaz {
+  width: 120px;
+  margin-top: 20px;
+}
+
 .sec3 button {
   margin: 0 auto;
   border: 1px solid;
   border-radius: 50px;
   background-color: #111;
   color: white;
-}
-.sec3 .sec1, .sec3 .sec8 {
-  margin-top: 50px;
-}
-.sec3 .sec1 p, .sec3 .sec8 p {
-  color: #cecece;
-  font-size: 16px;
-}
-.sec3 .sec1 h1, .sec3 .sec8 h1 {
-  color: white;
-}
-.sec3 .sec1 div, .sec3 .sec8 div {
-  margin: 0 auto;
-  width: -moz-fit-content;
-  width: fit-content;
-}
-.sec3 .sec1 div button:nth-child(1), .sec3 .sec8 div button:nth-child(1) {
-  background: linear-gradient(270deg, #673ab7, #4b03cd);
-  color: white;
-  width: 200px;
-}
-.sec3 .sec1 div button:nth-child(2), .sec3 .sec8 div button:nth-child(2) {
-  background-color: #424242;
-  border: #828282;
-  color: white;
-  width: 200px;
-}
-.sec3 .sec2 {
-  margin-top: 50px;
-}
-.sec3 .sec2 h5 {
-  color: white;
-  font-size: 16px;
-}
-.sec3 .goamaz {
-  width: 120px;
-  margin-top: 20px;
-}
-.sec3 div {
-  color: white;
-  font-size: 16px;
 }
 
 .marks {
@@ -227,6 +226,33 @@ h1 {
 .sec7 div p {
   border-bottom: 1px solid #38353d;
   margin-bottom: 0;
+}
+
+.sec8 {
+  margin-top: 50px;
+}
+.sec8 p {
+  color: #cecece;
+  font-size: 16px;
+}
+.sec8 h1 {
+  color: white;
+}
+.sec8 div {
+  margin: 0 auto;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+.sec8 div button:nth-child(1) {
+  background: linear-gradient(270deg, #673ab7, #4b03cd);
+  color: white;
+  width: 200px;
+}
+.sec8 div button:nth-child(2) {
+  background-color: rgba(0, 0, 0, 0.2);
+  border: 1px solid #828282;
+  color: white;
+  width: 200px;
 }
 
 footer {

@@ -34,6 +34,51 @@ body {
   }
 }
 
+.sec1 {
+  margin-top: 50px;
+
+  p {
+    color: #cecece;
+    font-size: 16px;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  div {
+    margin: 0 auto;
+    width: fit-content;
+
+    button:nth-child(1) {
+      background: linear-gradient(270deg, #673ab7, #4b03cd);
+      color: white;
+      width: 200px;
+    }
+
+    button:nth-child(2) {
+      background-color: #0003;
+      border: 1px solid #828282;
+      color: white;
+      width: 200px;
+    }
+  }
+}
+
+.sec2 {
+  margin-top: 50px;
+
+  h5 {
+    color: white;
+    font-size: 16px;
+  }
+}
+
+.goamaz {
+  width: 120px;
+  margin-top: 20px;
+}
+
 .sec3 {
   button {
     margin: 0 auto;
@@ -41,56 +86,6 @@ body {
     border-radius: 50px;
     background-color: #111;
     color: white;
-  }
-
-  .sec1, .sec8 {
-    margin-top: 50px;
-
-    p {
-      color: #cecece;
-      font-size: 16px;
-    }
-
-    h1 {
-      color: white;
-    }
-
-    div {
-      margin: 0 auto;
-      width: fit-content;
-
-      button:nth-child(1) {
-        background: linear-gradient(270deg, #673ab7, #4b03cd);
-        color: white;
-        width: 200px;
-      }
-
-      button:nth-child(2) {
-        background-color: #424242;
-        border: #828282;
-        color: white;
-        width: 200px;
-      }
-    }
-  }
-
-  .sec2 {
-    margin-top: 50px;
-
-    h5 {
-      color: white;
-      font-size: 16px;
-    }
-  }
-
-  .goamaz {
-    width: 120px;
-    margin-top: 20px;
-  }
-
-  div {
-    color: white;
-    font-size: 16px;
   }
 }
 
@@ -258,6 +253,37 @@ h1 {
   }
 }
 
+.sec8 {
+  margin-top: 50px;
+
+  p {
+    color: #cecece;
+    font-size: 16px;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  div {
+    margin: 0 auto;
+    width: fit-content;
+
+    button:nth-child(1) {
+      background: linear-gradient(270deg, #673ab7, #4b03cd);
+      color: white;
+      width: 200px;
+    }
+
+    button:nth-child(2) {
+      background-color: #0003;
+      border: 1px solid #828282;
+      color: white;
+      width: 200px;
+    }
+  }
+}
+
 footer {
   margin-top: 90px;
   background: radial-gradient(circle, #6f30d827, #26185000, rgba(38, 24, 80, 0) 100%);
@@ -361,4 +387,4 @@ footer {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
   }
-}
+} 
