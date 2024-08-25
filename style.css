@@ -260,16 +260,9 @@ footer {
   margin-top: 90px;
   background: radial-gradient(circle, rgba(111, 48, 216, 0.1529411765), rgba(38, 24, 80, 0), rgba(38, 24, 80, 0) 100%);
 }
-footer .socialimg img {
+footer .so-img {
   width: 10px;
   height: 10px;
-}
-footer .fd1 div button:nth-child(1) {
-  background: linear-gradient(90deg, #673ab7, #4b03cd);
-  color: white;
-}
-footer .fd1 div button:nth-child(2) {
-  color: white;
 }
 footer section {
   width: -moz-fit-content;
@@ -277,7 +270,7 @@ footer section {
   margin: 0 auto;
   margin-top: 90px;
 }
-footer section div:nth-child(1) p {
+footer section div:nth-child(1) .foot-par {
   color: #c0c0c0;
 }
 footer section div:nth-child(2) {
