@@ -213,14 +213,10 @@ h6 {
   background: linear-gradient(135deg, rgba(0, 0, 0, 0.1215686275), rgba(236, 200, 200, 0.2), rgba(255, 255, 255, 0.0196078431));
 }
 
-h1 {
-  color: white;
-}
-
 .sec7 {
   margin-top: 90px;
 }
-.sec7 div {
+.sec7 .sec7-div {
   margin: 0 auto;
   width: -moz-fit-content;
   width: fit-content;
@@ -228,7 +224,7 @@ h1 {
   border-radius: 15px;
   background: linear-gradient(135deg, rgba(236, 200, 200, 0.2), rgba(0, 0, 0, 0.1215686275), rgba(255, 255, 255, 0.0196078431));
 }
-.sec7 div p {
+.sec7 .sec7-div p {
   border-bottom: 1px solid #38353d;
   margin-bottom: 0;
 }
@@ -236,24 +232,24 @@ h1 {
 .sec8 {
   margin-top: 50px;
 }
-.sec8 p {
+.sec8 .sec8-p {
   color: #cecece;
   font-size: 16px;
 }
 .sec8 h1 {
   color: white;
 }
-.sec8 div {
+.sec8 .sec8-div {
   margin: 0 auto;
   width: -moz-fit-content;
   width: fit-content;
 }
-.sec8 div button:nth-child(1) {
+.sec8 .sec8-div button:nth-child(1) {
   background: linear-gradient(270deg, #673ab7, #4b03cd);
   color: white;
   width: 200px;
 }
-.sec8 div button:nth-child(2) {
+.sec8 .sec8-div button:nth-child(2) {
   background-color: rgba(0, 0, 0, 0.2);
   border: 1px solid #828282;
   color: white;

@@ -234,14 +234,10 @@ h6 {
   }
 }
 
-h1 {
-  color: white;
-}
-
 .sec7 {
   margin-top: 90px;
 
-  div {
+  .sec7-div {
     margin: 0 auto;
     width: fit-content;
     border: 1px solid #38353d;
@@ -258,7 +254,7 @@ h1 {
 .sec8 {
   margin-top: 50px;
 
-  p {
+  .sec8-p {
     color: #cecece;
     font-size: 16px;
   }
@@ -267,7 +263,7 @@ h1 {
     color: white;
   }
 
-  div {
+  .sec8-div {
     margin: 0 auto;
     width: fit-content;
 
