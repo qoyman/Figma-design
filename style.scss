@@ -13,7 +13,7 @@ body {
   border-color: white;
   color: white;
   background-color: #111;
-} 
+}
 
 .menu {
   width: 15px;
@@ -43,28 +43,28 @@ body {
     color: white;
   }
 
-.sec1, .sec8 {
+  .sec1, .sec8 {
     margin-top: 50px;
-  
+
     p {
       color: #cecece;
       font-size: 16px;
     }
 
     h1 {
-     color: white;
+      color: white;
     }
-  
+
     div {
      margin: 0 auto;
      width: fit-content;
-  
+
       button:nth-child(1) {
         background: linear-gradient(270deg, #673ab7, #4b03cd);
         color: white;
         width: 200px;
       }
-  
+
       button:nth-child(2) {
         background-color: #424242;
         border: #828282;
@@ -106,7 +106,7 @@ body {
   h1 {
     color: white;
   }
-  
+
   .div12 {
     color: white;
     justify-content: space-between;
@@ -123,17 +123,17 @@ body {
   
     img {
       padding: 10px;
-      background-color: #673AB7;
+      background-color: #673ab7;
       border-radius: 10px;
       margin-bottom: 40px;
     }
-  
+
     h6 {
       margin-bottom: 10px;
     }
-  
+
     p {
-      color: #C1CFD8;
+      color: #c1cfd8;
       font-size: 16px;
     }
   }
@@ -170,13 +170,13 @@ h1, p, h6 {
   .prbig {
     .the2 {
       border: 1px solid #38353d;
-  
+
       div:nth-child(1) {
         border: 1px solid #38353d;
         background-color: #4a46fc;
       }
     }
-  
+
     .red25 {
       transform: translate(-28px, -15px) rotate(45deg);
     }
@@ -206,21 +206,21 @@ h1, p, h6 {
   .psub1 {
     border: 1px solid #38353d;
     border-radius: 15px;
-    
+
     button {
       color: white;
       background: linear-gradient(135deg, #0000001f, #ecc8c833, #ffffff05);
     }
   }
-    
+
   .psub2 {
-    border: 1px solid #38353D;
+    border: 1px solid #38353d;
     border-radius: 15px;
     background: linear-gradient(135deg, #ecc8c833, #0000001f, #ffffff05);
 
     button {
       background: linear-gradient(270deg, #3a00a1, #9763f4);
-       color: white;
+      color: white;
     }
   }
 }
@@ -236,15 +236,14 @@ h1, p, h6 {
     background: linear-gradient(135deg, #0000001f, #ecc8c833, #ffffff05);
   }
 }
-    
+
 h1 {
   color: white;
 }
-  
 
 .sec7 {
   margin-top: 90px;
-  
+
   div {
     margin: 0 auto;
     width: fit-content;
@@ -259,10 +258,9 @@ h1 {
   }
 }
   
-
 footer {
   margin-top: 90px;
-  background: radial-gradient(circle, #6F30D827, #26185000, rgba(38, 24, 80, 0) 100%);
+  background: radial-gradient(circle, #6f30d827, #26185000, rgba(38, 24, 80, 0) 100%);
 
   .socialimg {
     img {
