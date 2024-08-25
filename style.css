@@ -187,7 +187,7 @@ h6 {
   border: 1px solid #38353d;
   border-radius: 15px;
 }
-.sec6-big .psub1 button {
+.sec6-big .psub1 .big6-btn1 {
   color: white;
   background: linear-gradient(135deg, rgba(0, 0, 0, 0.1215686275), rgba(236, 200, 200, 0.2), rgba(255, 255, 255, 0.0196078431));
 }
@@ -196,7 +196,7 @@ h6 {
   border-radius: 15px;
   background: linear-gradient(135deg, rgba(236, 200, 200, 0.2), rgba(0, 0, 0, 0.1215686275), rgba(255, 255, 255, 0.0196078431));
 }
-.sec6-big .psub2 button {
+.sec6-big .psub2 .big6-btn2 {
   background: linear-gradient(270deg, #3a00a1, #9763f4);
   color: white;
 }
@@ -208,7 +208,7 @@ h6 {
   width: fit-content;
   margin: 0 auto;
 }
-.psub3 button {
+.psub3 .big6-btn3 {
   color: white;
   background: linear-gradient(135deg, rgba(0, 0, 0, 0.1215686275), rgba(236, 200, 200, 0.2), rgba(255, 255, 255, 0.0196078431));
 }

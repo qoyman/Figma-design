@@ -35,8 +35,8 @@ body {
 }
 
 h1,
- p,
-  h6 {
+p,
+h6 {
   color: white;
 }
 
@@ -204,7 +204,7 @@ h1,
     border: 1px solid #38353d;
     border-radius: 15px;
 
-    button {
+    .big6-btn1 {
       color: white;
       background: linear-gradient(135deg, #0000001f, #ecc8c833, #ffffff05);
     }
@@ -215,7 +215,7 @@ h1,
     border-radius: 15px;
     background: linear-gradient(135deg, #ecc8c833, #0000001f, #ffffff05);
 
-    button {
+    .big6-btn2 {
       background: linear-gradient(270deg, #3a00a1, #9763f4);
       color: white;
     }
@@ -228,7 +228,7 @@ h1,
   width: fit-content;
   margin: 0 auto;
 
-  button {
+  .big6-btn3 {
     color: white;
     background: linear-gradient(135deg, #0000001f, #ecc8c833, #ffffff05);
   }
