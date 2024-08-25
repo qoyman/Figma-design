@@ -1,18 +1,18 @@
 body {
-      background-color: rgba(17, 17, 17, 1);
-      width: 70%;
-      margin: auto;
-      height: 100%;
+  background-color: rgba(17, 17, 17, 1);
+  width: 70%;
+  margin: auto;
+  height: 100%;
 }
 
 .linklogo {
-      width: 90px;
+  width: 90px;
 }
 
 .btn-1 {
-      border-color: white;
-      color: white;
-      background-color: #111;
+  border-color: white;
+  color: white;
+  background-color: #111;
 } 
 
 .menu {
@@ -21,65 +21,65 @@ body {
 }
 
 .nav-bar {
-      display: block;
-      width: 336px;
-      left: 387px;
-      top: 74px;
-      padding-top: 5px;
+  display: block;
+  width: 336px;
+  left: 387px;
+  top: 74px;
+  padding-top: 5px;
 
-      ul {
-        list-style-type: none;
-        padding: 0;
-        margin: 0;
-    }
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
 }
 
 .sec1, .sec8 {
-    margin-top: 50px;
+  margin-top: 50px;
   
-    p {
-      color: #CECECE;
-      font-size: 16px;
-    }
-
-    h1 {
-        color: white;
-    }
-  
-    div {
-      margin: 0 auto;
-      width: fit-content;
-  
-      button:nth-child(1) {
-        background: linear-gradient(270deg, #673AB7, #4B03CD);
-        color: white;
-        width: 200px;
-      }
-  
-      button:nth-child(2) {
-        background-color: #424242;
-        border: #828282;
-        color: white;
-        width: 200px;
-      }
-    }
+  p {
+    color: #cecece;
+    font-size: 16px;
   }
 
-  .sec2 {
-    margin-top: 50px;
-
-    h5 {
-        color: white;
-        font-size: 16px;
-      }
+  h1 {
+    color: white;
   }
-
-  .goamaz {
-    width: 120px;
-    margin-top: 20px;
+  
+  div {
+    margin: 0 auto;
+    width: fit-content;
+  
+    button:nth-child(1) {
+      background: linear-gradient(270deg, #673AB7, #4B03CD);
+      color: white;
+      width: 200px;
+    }
+  
+    button:nth-child(2) {
+      background-color: #424242;
+      border: #828282;
+      color: white;
+      width: 200px;
+    }
   }
+}
 
-  .sec3 {
+.sec2 {
+  margin-top: 50px;
+
+  h5 {
+    color: white;
+    font-size: 16px;
+  }
+}
+
+.goamaz {
+  width: 120px;
+  margin-top: 20px;
+}
+
+.sec3 {
      button {
         margin: 0 auto;
         border: 1px solid;
