@@ -26,7 +26,7 @@ HTML <br> CSS <br> SASS <br> Bootstrap
 
 ## Live Demo
 
-[Live Demo link](https://biodun-ojo.github.io/Newsweek-bootstrap-project/) --This is the live link to the page feel free to view to see how far the project has gone
+[Live Demo link](https://qoyman.github.io/Figma-design/) --This is the live link to the page feel free to view to see how far the project has gone
 
  Authors
 
@@ -34,7 +34,7 @@ HTML <br> CSS <br> SASS <br> Bootstrap
 
 
 - GitHub: [@qoyman](https://github.com/qoyman)
-- linkedin: [@biodun-ojo](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+- linkedin: [@qoyman](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 - GitHub: [@qoyman](https://github.com/qoyman)
 - Twitter: [@qoyman](https://twitter.com/qoyman)
