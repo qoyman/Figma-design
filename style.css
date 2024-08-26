@@ -308,7 +308,8 @@ h6 {
 
 footer {
   margin-top: 90px;
-  background: radial-gradient(
+  background:
+   radial-gradient(
     circle,
     rgba(111, 48, 216, 0.1529411765),
     rgba(38, 24, 80, 0),
