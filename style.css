@@ -209,7 +209,6 @@ h6 {
 
 .sec6-big .psub1 .big6-btn1 {
   color: white;
-
   background: linear-gradient(
     135deg,
     rgba(0, 0, 0, 0.1215686275),
@@ -221,7 +220,6 @@ h6 {
 .sec6-big .psub2 {
   border: 1px solid #38353d;
   border-radius: 15px;
-
   background: linear-gradient(
     135deg,
     rgba(236, 200, 200, 0.2),
@@ -245,7 +243,6 @@ h6 {
 
 .psub3 .big6-btn3 {
   color: white;
-
   background: linear-gradient(
     135deg,
     rgba(0, 0, 0, 0.1215686275),
@@ -264,7 +261,6 @@ h6 {
   width: fit-content;
   border: 1px solid #38353d;
   border-radius: 15px;
-
   background: linear-gradient(
     135deg,
     rgba(236, 200, 200, 0.2),
@@ -312,7 +308,6 @@ h6 {
 
 footer {
   margin-top: 90px;
-
   background: radial-gradient(
     circle,
     rgba(111, 48, 216, 0.1529411765),
