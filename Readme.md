@@ -1,4 +1,4 @@
-<!-- # project-Figma
+# Figma-design
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,7 +11,7 @@
 8. [support](#show-your-support)
 
 ## Introduction
-> The [Project Figma ](https://web.archive.org/web/20210120125445/https://www.newsweek.com/) is the project being cloned in this repository, with a aim of improving our (Interns at SOI) knowledge on how to implement bootstrap better to our code.
+> The [figma design](https://www.figma.com/design/FCIikHn5mp3GYEZsZPDLEU/project?node-id=0-1&t=N4Yh5E0LMKISUuoL-0) is the project being cloned in this repository, with a aim of improving our (Interns at SOI) knowledge on how to implement bootstrap better to our code.
 
 ## Installation
 ### Prerequisites
@@ -19,22 +19,22 @@
 - it is also recommended to download the live sass compiler by gleen marks on the extention market on vs code in other for the sass file to be compiled to css file.
 
 ## Screenshot
-![screenshot](/images/)
+![screenshot](/images/figma-design.png)
 
 ## Built With 
 HTML <br> CSS <br> SASS <br> Bootstrap
 
 ## Live Demo
 
-[Live Demo link](https://biodun-ojo.github.io/Newsweek-bootstrap-project/) --This is the live link to the page feel free to view to see how far the project has gone
+[Live Demo link](https://qoyman.github.io/Figma-design/) --This is the live link to the page feel free to view to see how far the project has gone
 
  Authors
 
 👤 **[@qoyman](https://github.com/qoyman)**
 
 
-- GitHub: [@biodun-ojo](https://github.com/biodun-ojo)
-- linkedin: [@biodun-ojo](https://www.linkedin.com/in/abiodun-ojo-oretoluwase-74003623a/?originalSubdomain=ng)
+- GitHub: [@qoyman](https://github.com/qoyman)
+- linkedin: [@qoyman](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
 
 - GitHub: [@qoyman](https://github.com/qoyman)
 - Twitter: [@qoyman](https://twitter.com/qoyman)
@@ -43,8 +43,8 @@ HTML <br> CSS <br> SASS <br> Bootstrap
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/biodun-ojo/Newsweek-bootstrap-project/issues).
+Feel free to check the [issues page](https://github.com/qoyman/Figma-design/issues).
 
 ## Show your support
 
-Give a ⭐️ if you like this project! -->
+Give a ⭐️ if you like this project!
